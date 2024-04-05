@@ -18,3 +18,6 @@ that i can explain the authentification easily.
 5.I have used the jsonwebtoken library for auth purposes.
 6.I need to admit that i have loosely coded backend (since I don't have much knowledge in it).
 7.Lot of other libraries could be seen in work (express, cors, axios, etc).
+
+I HAVE HOSTED MY FRONTEND AT
+mailclientbyadityamane.netlify.app
