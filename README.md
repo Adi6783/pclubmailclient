@@ -20,4 +20,5 @@ that i can explain the authentification easily.
 7.Lot of other libraries could be seen in work (express, cors, axios, etc).
 
 I HAVE HOSTED MY FRONTEND AT
-mailclientbyadityamane.netlify.app
+mailclientbyadityamane.netlify.app   
+https://mailclientbyadityamane.netlify.app/
